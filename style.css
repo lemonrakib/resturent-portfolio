@@ -1,0 +1,149 @@
+
+.header-area{
+    box-shadow: 5px 10px 40px #F0F8FF;
+    display: flex;
+    max-width: 100%;
+    height: 200px;
+}
+.header-img{
+    width: 30%;
+    
+}
+.menu-bar{
+    width: 70%;
+
+}
+.menu-bar,a{
+    text-decoration: none;
+    text-align: right;
+    font-weight: 900;
+    margin-top: 80px;
+    margin-right: 50px;
+    padding: 10px;
+    font-size: 3rem;
+}
+
+
+
+.header-down{
+    display: flex;
+    margin-top: 200px;
+    background-image: url(picture/all-picture/Frame\ 57.jpg);
+    background-size: cover;
+}
+.wight-half{
+    width: 50%;
+    padding-left: 60px;
+
+}
+h1{
+    font-weight: 900;
+    font-size: 5rem;
+    padding-top: 80px;
+}
+.paragraph{
+    text-align: justify;
+    font-size: 2rem;
+    opacity: 0.5;
+    margin-bottom: 100px;
+    padding: 10px;
+}
+.order{
+    border: 5px solid saddlebrown;
+    padding: 5px 10px;
+    background-image: linear-gradient(to bottom right, orange , tomato);
+}
+.right-img{
+    
+}
+.bargar-1{
+    height: 100% ;
+    width: 100%;
+}
+
+
+.common-header{
+    text-align: center;
+}
+.special-food-area{
+  
+}
+.food-area{
+    display: flex;
+}
+.special-food{
+    box-shadow: 5px 5px 5px 5px grey ;
+    width: 30%;
+    margin-left: 2% ;
+    margin-right: 2%;
+}
+h2{
+    text-align: center;
+    font-weight: 900;
+    font-size: 3rem;
+    
+}
+.sf-common{
+   width: 150px;
+   height: 150px;
+   padding-left:40% ;
+   padding-top: 10% ;
+}
+.flex{
+    display: flex;
+}
+.all-popular{
+    box-shadow: 5px 5px 5px 5px black ;
+    width: 30%;
+    margin-left: 2% ;
+    margin-right: 2%;
+    background-color: white;
+    
+}
+.all-pic{
+    width: 50%;
+    height: 50%;
+    padding-left:25%;
+    padding-top: 20%;
+    
+}
+
+.now{
+    border: 5px solid salmon;
+    padding: 4px;
+    margin-left: 30%;
+    margin-top: 10px;
+    
+}
+.popular-food{
+    background-color: lightslategrey;
+}
+.footer-container{
+    width: 100%;
+    display: flex;
+    background-color: black;
+
+}
+.footer-content{
+    width: 25%;
+    padding-top: 100px;
+    padding-left: 3%;
+    padding-right: 3%;
+    color: white;
+}
+.f-all{
+    text-align: left;
+    font-weight: 700;
+}
+.para{
+    font-size: 2rem;
+}
+ul li{
+   list-style: none;
+   text-align: left;
+   color: white;
+}
+.email{
+   width: 360px;
+   
+}
